@@ -7,7 +7,9 @@ public class MainTest {
 	
 	@Test
 	private void test() {
-		// here we can write logics
+		System.out.println("Test1");
+		System.out.println("Test2");
+		System.out.println("Test3");
 
 	}
 
